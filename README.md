@@ -20,7 +20,7 @@ Whether you're running models locally with LM Studio or using cloud-hosted model
 - 📁 File attachment support
 - 🖼️ Image attachment groundwork
 - 🎨 Light / Dark / System themes
-- ⚡ Riverpod-powered state management
+- ⚡ Riverpod-powered state management.
 - 📱 Cross-platform Flutter application
 - 🔧 Extensible architecture for new providers
 
