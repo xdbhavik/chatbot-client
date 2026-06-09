@@ -12,7 +12,7 @@ Whether you're running models locally with LM Studio or using cloud-hosted model
 
 ## ✨ Features
 
-- 🤖 Multiple AI provider support.
+- 🤖 Multiple AI provider support
 - 🖥️ LM Studio integration
 - ☁️ OpenRouter integration
 - 📝 Markdown rendering
