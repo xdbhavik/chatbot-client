@@ -22,7 +22,7 @@ Whether you're running models locally with LM Studio or using cloud-hosted model
 - 🎨 Light / Dark / System themes
 - ⚡ Riverpod-powered state management
 - 📱 Cross-platform Flutter application
-- 🔧 Extensible architecture for new providers
+- 🔧 Extensible architecture for new providers.
 
 ---
 
